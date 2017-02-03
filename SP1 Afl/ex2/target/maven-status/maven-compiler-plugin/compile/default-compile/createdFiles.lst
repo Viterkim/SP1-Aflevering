@@ -1,0 +1,12 @@
+deadlock\Tester.class
+ObservableFibonacciCalculator.class
+deadlock\DeadLockDetector.class
+deadlock\ResourceUser1.class
+UrlRetriever.class
+fibonacci\FibonacciGui.class
+deadlock\ResourceUser2.class
+fibonacci\GuiObserver.class
+deadlock\ResourceContainer.class
+fibonacci\FibonacciObserver.class
+ResponsiveFibonacciGui.class
+UrlRetrieverSynchronisation.class
